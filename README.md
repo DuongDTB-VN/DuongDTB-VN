@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DuongDTB-VN
-- 👀 I’m interested in Code and Hacking
+- 👀 I’m interested in Code and Technology
 - 🌱 I’m currently learning FPT
 - 📫 Contact me : duongdoan.0904@gmail.com
 
